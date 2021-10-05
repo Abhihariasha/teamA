@@ -1,0 +1,8 @@
+hi this is 5th file
+here practice gits
+how to edit file
+how to add file 
+how to check status 
+how to check log 
+how to commit
+how to pull etc.

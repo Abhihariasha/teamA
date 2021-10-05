@@ -1,0 +1,11 @@
+Hi
+this is git practice file 
+samle file 
+create some five file 
+edit 
+add
+commit 
+status
+log
+pull in to master repo
+
