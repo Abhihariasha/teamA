@@ -1,0 +1,10 @@
+hi 
+this is 4th file 
+here also practice gits
+how to cteate 
+how to add
+how to commit
+how to check git status 
+how to check git log
+and how to pull and clone the gile local repo to master repo
+
