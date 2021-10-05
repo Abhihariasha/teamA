@@ -1,0 +1,7 @@
+hi 
+hello 
+good afternoon all
+i am from hassan 
+this is 3rd file 
+this is also git practice file 
+
