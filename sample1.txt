@@ -1,0 +1,14 @@
+hi
+this is 1st assignment 
+to create five files like sample1.txt to sample5.txt 
+then edit the file 
+write some content
+then save the content
+after
+git add file name 
+then git status
+after the  git status 
+commit the file 
+after commiting the file 
+marge the file and pull in to root repository
+
