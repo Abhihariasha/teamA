@@ -1,0 +1,15 @@
+hi 
+hareesh
+muddhu krishna 
+anvit 
+karthik
+this is devops class
+here learning 
+linux
+gits
+shell scripts
+build tools
+docker
+jenkins
+and k8
+this is fifth file to practice gits 
